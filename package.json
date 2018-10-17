@@ -2,6 +2,7 @@
   "name": "omra",
   "version": "0.0.0",
   "private": true,
+  "homepage": "https://notnullgames.github.io/omra/",
   "dependencies": {
     "babylonjs": "3.3.0",
     "babylonjs-gui": "^3.3.0",
@@ -17,7 +18,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "predeploy": "npm run build"
   },
   "browserslist": [
