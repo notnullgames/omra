@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/omra/static/js/runtime~main.4cfad24c.js"
   },
   {
-    "revision": "ab8b7c5d07f92cd22a37",
-    "url": "/omra/static/js/main.ab8b7c5d.chunk.js"
+    "revision": "78fe34c381381d9e574f",
+    "url": "/omra/static/js/main.78fe34c3.chunk.js"
   },
   {
     "revision": "1819588aa034e7061b59",
     "url": "/omra/static/js/1.1819588a.chunk.js"
   },
   {
-    "revision": "ab8b7c5d07f92cd22a37",
+    "revision": "78fe34c381381d9e574f",
     "url": "/omra/static/css/main.124b29c6.chunk.css"
   },
   {
-    "revision": "edd71cc02b7203320f1379c9612f5674",
+    "revision": "e395a380b623ba4256e59fc5f4990d97",
     "url": "/omra/index.html"
   }
 ];

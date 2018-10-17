@@ -1,7 +1,7 @@
 {
   "main.css": "/omra/static/css/main.124b29c6.chunk.css",
-  "main.js": "/omra/static/js/main.ab8b7c5d.chunk.js",
-  "main.js.map": "/omra/static/js/main.ab8b7c5d.chunk.js.map",
+  "main.js": "/omra/static/js/main.78fe34c3.chunk.js",
+  "main.js.map": "/omra/static/js/main.78fe34c3.chunk.js.map",
   "static/js/1.1819588a.chunk.js": "/omra/static/js/1.1819588a.chunk.js",
   "static/js/1.1819588a.chunk.js.map": "/omra/static/js/1.1819588a.chunk.js.map",
   "runtime~main.js": "/omra/static/js/runtime~main.4cfad24c.js",
@@ -11,6 +11,6 @@
   "static/media/earth.png": "/omra/static/media/earth.197ad41f.png",
   "static/media/water.jpg": "/omra/static/media/water.5ce497de.jpg",
   "index.html": "/omra/index.html",
-  "precache-manifest.70737caf7d34502828d59db894fbcc0f.js": "/omra/precache-manifest.70737caf7d34502828d59db894fbcc0f.js",
+  "precache-manifest.dd16bb6d9b632f3737901ab10d0a2e2f.js": "/omra/precache-manifest.dd16bb6d9b632f3737901ab10d0a2e2f.js",
   "service-worker.js": "/omra/service-worker.js"
 }

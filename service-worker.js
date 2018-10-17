@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/omra/precache-manifest.70737caf7d34502828d59db894fbcc0f.js"
+  "/omra/precache-manifest.dd16bb6d9b632f3737901ab10d0a2e2f.js"
 );
 
 workbox.clientsClaim();
